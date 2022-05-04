@@ -1,0 +1,1 @@
+KERNEL=="hidraw*", KERNELS=="*054C:0CE6*", MODE="0666"
